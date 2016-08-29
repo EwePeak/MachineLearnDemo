@@ -1,1 +1,1 @@
-# MachineLearnDemo
+# MachineLearningDemo
